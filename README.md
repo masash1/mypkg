@@ -36,7 +36,7 @@ $ roslaunch mypkg mypkg.launch
 ```
  
 * Check the result by using a web browser.
-  * Search 'raspberrypi's ip address:8000' in the window.
+  * Search "raspberrypi's ip address:8000" in the window.
   
 ## Demo
 
