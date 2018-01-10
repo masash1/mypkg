@@ -19,7 +19,7 @@ This repository contains codes copied from the repository of robosys2017 (https:
 * Clone this repository under ~/catkin_ws/src
 ```
 $ cd ~/catkin_ws/src
-$ git clone https://github.com/masash1/robosys1.git
+$ git clone https://github.com/masash1/mypkg.git
 ```
 
 ## Usage
