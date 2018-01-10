@@ -16,7 +16,7 @@ This repository contains codes copied from the repository of robosys2017 (https:
   * ROS is already installed in the image.
   * Reference: https://lab.ueda.tech/?presenpress=%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E5%AD%A62016%E7%AC%AC12%E5%9B%9E#/15
 
-* Clone this repository under ~/catkin_ws/src
+* Clone this repository under the '~/catkin_ws/src' directory.
 ```
 $ cd ~/catkin_ws/src
 $ git clone https://github.com/masash1/mypkg.git
@@ -36,7 +36,7 @@ $ roslaunch mypkg mypkg.launch
 ```
  
 * Check the result by using a web browser.
-  * raspberrypi's ip address:8000
+  * Search 'raspberrypi's ip address:8000' in the window.
   
 ## Demo
 
