@@ -8,7 +8,7 @@ This repository contains codes copied from the repository of robosys2017 (https:
 
 ## Setup
 
-* Prepare Raspberry Pi 3hi
+* Prepare Raspberry Pi 3.
 
 * Install the image to a microSD card.
   * http://file.ueda.tech/RPIM_BOOK/ubuntu-16.04-raspimouse-ros-book-part1+catkin_ws.img.xz
@@ -43,9 +43,9 @@ $ roslaunch mypkg mypkg.launch
 
 ## Reference
 
-https://github.com/ryuichiueda/robosys2017/blob/master/11.md
-https://github.com/ryuichiueda/robosys2017/blob/master/12.md
-https://github.com/ryuichiueda/robosys2017/blob/master/13.md
+* https://github.com/ryuichiueda/robosys2017/blob/master/11.md
+* https://github.com/ryuichiueda/robosys2017/blob/master/12.md
+* https://github.com/ryuichiueda/robosys2017/blob/master/13.md
 
 ## License
 This repository is licensed under the GPLv3 license, see [LICENSE](./LICENSE).
